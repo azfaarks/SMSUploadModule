@@ -7,6 +7,9 @@ import android.content.Context;
 import android.database.Cursor;
 import android.net.Uri;
 
+
+// Class to get inbox and sent folder SMS
+
 public class SampleSMSReader {
 
 	private Context mContext;
