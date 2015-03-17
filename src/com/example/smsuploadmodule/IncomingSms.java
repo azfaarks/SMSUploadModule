@@ -9,6 +9,9 @@ import android.telephony.SmsMessage;
 import android.util.Log;
 import android.widget.Toast;
 
+
+// This class is attached with SMS Broadcast reciever and get the sms when it comes
+
 public class IncomingSms extends BroadcastReceiver {
 
 	// Get the object of SmsManager
